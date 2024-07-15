@@ -8,12 +8,8 @@ Angular - Framework for building the interactive front-end
 Ngular CLI - Command-line tool for Angular development
 This system provides functionalities for cafe owners and staff to:
 
-Manage inventory of drinks, food items, and ingredients
-Create and modify menus with categories and pricing
-Take customer orders and manage order flow
-Track sales and generate reports
-
-#Getting Started
-This project requires Node.js, MongoDB, and a code editor of your choice.
---BASH
---git clone https://your-repository-url.git
+1. Manage inventory of drinks, food items, and ingredients
+2. Create and modify menus with categories and pricing
+3. Take customer orders and manage order flow
+4. Track sales and generate reports
+5. Download and View Bill
