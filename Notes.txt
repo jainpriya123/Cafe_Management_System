@@ -1,0 +1,17 @@
+C:\Users\priya jain>mysql -u root -p
+Enter password: MySql@123
+
+run command :
+ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'MySql@123';
+while getting some connection issues error in while connecting to mysql 
+
+
+
+"[(\"id\": 1, \"name\": \"Black Coffee\", \"price\": 99, \"total\": 99, \"category\": \"Coffee\", \"quantity\": \"1\")]"
+
+https://stackoverflow.com/questions/77833183/adding-service-to-anguar-17-project-to-start-and-stop-loader-ngx-ui-loader
+
+
+Event-emmitter
+Why material routing?
+MAT dialog ref dirrent use

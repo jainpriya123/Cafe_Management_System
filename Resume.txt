@@ -1,0 +1,5 @@
+Skills: 
+Programming Languages: C++, Typescript
+Frameworks: Angular, Bootstrap
+Cloud Services: AWS EC2, AWS S3, Azure databricks
+Tools: Bitbucket, Gitkraken, Visual Studio, teamcity and Octopus, Jira.
